@@ -1,4 +1,4 @@
-# USACO-Together
+# USACO Together
 A chrome extension to track the progress of your friends on usaco.guide!
 
 What it adds:
